@@ -1,1 +1,0 @@
-# Sometimes there are problems with loading classes ect. without the __init__.py file
